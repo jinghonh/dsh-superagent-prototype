@@ -32,6 +32,13 @@ Read the numbered documents in order; each builds only on the ones before it.
 
 ## Development
 
+Run these commands from the repository root:
+
+```shell
+pnpm install
+pnpm check
+```
+
 `pnpm check` runs the typecheck, the tests and the build.
 
 ## License
